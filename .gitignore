@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ultralytics/
+.matplotlib/
+Ultralytics/
+runs/
+yolo*.pt
+*.cache
+datasets/raw/
+datasets/crop_non_crop/images/
+datasets

@@ -1,0 +1,9 @@
+# Dataset root is relative to the project working directory for Ultralytics.
+path: datasets/crop_non_crop
+train: images/train
+val: images/val
+test: images/test
+
+# Train only the crop selected for the field run.
+names:
+  0: crop

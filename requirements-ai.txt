@@ -1,0 +1,6 @@
+# Install a PyTorch build that matches the target machine before training if needed.
+opencv-python>=4.9
+ultralytics>=8.2
+numpy>=1.26
+pytest>=8.0
+
